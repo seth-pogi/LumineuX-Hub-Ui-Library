@@ -725,7 +725,7 @@ Button_2.BackgroundTransparency = 1
 Button_2.BorderSizePixel = 0
 Button_2.Size = UDim2.new(0, 91, 0, 20)
 Button_2.ZIndex = 2
-Button_2.Font = Enum.Font.Garamond
+Button_2.Font = Enum.Font.LuckiestGuy
 Button_2.TextColor3 = Color3.new(1, 1, 1)
 Button_2.TextSize = 17
 
