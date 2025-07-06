@@ -237,7 +237,7 @@ TextBox.PlaceholderColor3 = Color3.new(0.698039, 0.698039, 0.698039)
 TextBox.PlaceholderText = "Input Text"
 TextBox.Text = ""
 TextBox.TextColor3 = Color3.new(0.784314, 0.784314, 0.784314)
-TextBox.TextSize = 17
+TextBox.TextSize = 8
 
 TextBox_Roundify_4px.Name = "TextBox_Roundify_4px"
 TextBox_Roundify_4px.Parent = TextBox
